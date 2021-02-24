@@ -11,3 +11,4 @@ I am wrting this repository to keep track of how I downloaded and installed the 
 * How I Installed VLC Media Player --> [VLC Install](VLCInstall.md)
 * How I Installed PostgreSQL --> [PostgreSQL Install](PostgreSQL.md)
 * How I Installed package to use NTFS Disk format --> [NTFS-Mount](Ntfs-Mounting.md)
+* How I Installed VirtualBox6.1 --> [VirtualBox](VirtualBoxInstall.md)
