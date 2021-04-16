@@ -12,3 +12,4 @@ I am wrting this repository to keep track of how I downloaded and installed the 
 * How I Installed PostgreSQL --> [PostgreSQL Install](PostgreSQL.md)
 * How I Installed package to use NTFS Disk format --> [NTFS-Mount](Ntfs-Mounting.md)
 * How I Installed VirtualBox6.1 --> [VirtualBox](VirtualBoxInstall.md)
+* How I created a LAMP stack for Web application --> [LAMP Stack](LAMPInstall.md)
